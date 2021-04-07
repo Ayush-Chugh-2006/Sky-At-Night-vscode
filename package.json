@@ -4,7 +4,7 @@
 	"description": "Dark Theme based on color of sky during night",
 	"version": "1.0.1",
 	"publisher": "SkyAtNight",
-	"icon": "/logo.png",
+	"icon": "./logo.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Ayush-Chugh-2006/Sky-At-Night-vscode"
