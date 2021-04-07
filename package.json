@@ -1,39 +1,40 @@
 {
-    "name": "sky-at-night",
-    "displayName": "Sky At Night",
-    "description": "Dark Theme based on color of sky during night",
-    "version": "1.0.0",
-    "publisher": "Ayush Chugh",
-    "repository": {
-       "type": "git",
-       "url": "https://github.com/Ayush-Chugh-2006/Sky-At-Night-vscode"
-    },
-    "keywords": [
-       "theme",
-       "Dark Theme",
-       "dark theme",
-       "sky at night",
-       "sky-at-night",
-       "Sky-At-Night",
-       "Sky At Night",
-       "sky",
-       "night",
-       "vs code",
-       "visual studio code"
-    ],
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Sky At Night",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Sky At Night-color-theme.json"
-            }
-        ]
-    }
+	"name": "sky-at-night",
+	"displayName": "Sky At Night",
+	"description": "Dark Theme based on color of sky during night",
+	"version": "1.0.0",
+	"publisher": "SkyAtNight",
+	"icon": "/logo.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Ayush-Chugh-2006/Sky-At-Night-vscode"
+	},
+	"keywords": [
+		"theme",
+		"Dark Theme",
+		"dark theme",
+		"sky at night",
+		"sky-at-night",
+		"Sky-At-Night",
+		"Sky At Night",
+		"sky",
+		"night",
+		"vs code",
+		"visual studio code"
+	],
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Sky At Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sky At Night-color-theme.json"
+			}
+		]
+	}
 }
