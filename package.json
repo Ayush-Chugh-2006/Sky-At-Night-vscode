@@ -1,0 +1,21 @@
+{
+    "name": "sky-at-night",
+    "displayName": "Sky At Night",
+    "description": "Theme based on color of sky during night",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sky At Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sky At Night-color-theme.json"
+            }
+        ]
+    }
+}
