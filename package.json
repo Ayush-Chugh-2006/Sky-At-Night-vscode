@@ -20,7 +20,12 @@
 		"sky",
 		"night",
 		"vs code",
-		"visual studio code"
+		"visual studio code",
+      "night sky",
+      "colors",
+      "vs code theme",
+      "theme for vs code",
+      "dark theme for vs code"
 	],
 	"engines": {
 		"vscode": "^1.55.0"
