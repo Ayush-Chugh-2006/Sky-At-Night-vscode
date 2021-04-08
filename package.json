@@ -2,7 +2,7 @@
 	"name": "sky-at-night",
 	"displayName": "Sky At Night",
 	"description": "Dark Theme based on color of sky during night",
-	"version": "3.1.0",
+	"version": "3.1.1",
 	"publisher": "AyushChugh",
 	"icon": "logo.png",
 	"repository": {
@@ -21,11 +21,11 @@
 		"night",
 		"vs code",
 		"visual studio code",
-      "night sky",
-      "colors",
-      "vs code theme",
-      "theme for vs code",
-      "dark theme for vs code"
+		"night sky",
+		"colors",
+		"vs code theme",
+		"theme for vs code",
+		"dark theme for vs code"
 	],
 	"engines": {
 		"vscode": "^1.55.0"
