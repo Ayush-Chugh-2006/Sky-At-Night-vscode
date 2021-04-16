@@ -2,6 +2,8 @@
 
 A visual studio code theme based on color of sky during night
 
+#### If, you want any changes in theme for any language plz open new issue [Here](https://github.com/Ayush-Chugh-2006/Sky-At-Night-vscode/issues)
+
 ## Screen Shots
 
 ### HTML
