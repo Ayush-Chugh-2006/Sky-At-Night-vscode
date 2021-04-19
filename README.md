@@ -26,7 +26,7 @@ A visual studio code theme based on color of sky during night
 
 #### HTML
 
-![Screen shot of html](/Screenshots/Html-nigh.png)
+![Screen shot of html](/Screenshots/Html-night.png)
 
 #### Css
 
