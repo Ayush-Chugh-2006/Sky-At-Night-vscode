@@ -37,3 +37,5 @@ A visual studio code theme based on color of sky during night
 ![Screen shot of javascript](/Screenshots/Js%201-night.png)
 
 ![Screen shot of javascript](/Screenshots/Js%202-night.png)
+
+### Note - Night version is inspired from [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) Extension
