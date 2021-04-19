@@ -6,20 +6,34 @@ A visual studio code theme based on color of sky during night
 
 ## Screen Shots
 
-### HTML
+### Dusk
 
-![Screen shot of html](/Screenshots/Html.png)
+#### HTML
 
-### Css
+![Screen shot of html](/Screenshots/Html-dusk.png)
 
-![Screen shot of html](/Screenshots/css.png)
+#### Css
 
-### Java Script
+![Screen shot of css](/Screenshots/css-dusk.png)
 
-![Screen shot of html](/Screenshots/Js%201.png)
+#### Java Script
 
-![Screen shot of html](/Screenshots/Js%202.png)
+![Screen shot of javascript](/Screenshots/Js%201-dusk.png)
 
-### Scss
+![Screen shot of javascript](/Screenshots/Js%202-dusk.png)
 
-![Screen shot of html](/Screenshots/scss.png)
+### Night
+
+#### HTML
+
+![Screen shot of html](/Screenshots/Html-nigh.png)
+
+#### Css
+
+![Screen shot of css](/Screenshots/css-night.png)
+
+#### Java Script
+
+![Screen shot of javascript](/Screenshots/Js%201-night.png)
+
+![Screen shot of javascript](/Screenshots/Js%202-night.png)

@@ -1,9 +1,6 @@
-# Change Log
+### Version 4.0.0
 
-All notable changes to the "sky-at-night" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+* Created New theme Sky At Night (Night) version
+* Changed name of default Sky At Night to Sky At Night (Dusk)
+* Changed Syntax in Sky At Night (Dusk)
+* Changed cursor background in terminal
