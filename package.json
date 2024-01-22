@@ -35,14 +35,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Sky At Night (Dusk)",
+				"label": "Sky At Night",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Sky At Night (Dusk).json"
+				"path": "./themes/normal.json"
 			},
 			{
-				"label": "Sky At Night (Night)",
+				"label": "Sky At Night Flat",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Sky At Night (Night).json"
+				"path": "./themes/flat.json"
 			}
 		]
 	}
