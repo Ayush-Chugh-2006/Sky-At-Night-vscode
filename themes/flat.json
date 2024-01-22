@@ -1966,7 +1966,7 @@
 		"breadcrumb.background": "#0c121a",
 		"breadcrumb.foreground": "#cccccccc",
 		"breadcrumb.focusForeground": "#e0e0e0",
-		"editorGroupHeader.tabsBackground": "#16161f",
+		"editorGroupHeader.tabsBackground": "#0c121a",
 		"tab.activeForeground": "#cccccc",
 		"tab.border": "#5454542d",
 		"tab.activeBackground": "#171e26",
